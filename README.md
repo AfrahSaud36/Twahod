@@ -4,7 +4,7 @@
 
 ## Overview
 
-The تواحُد app is designed specifically to assist children with autism by improving their communication skills and fostering social development. It does this by incorporating interactive digital cards that replace traditional physical cards, making the learning experience more engaging and accessible.
+The تواحُد app is designed specifically to assist children with autism by improving their communication skills and fostering social development. It does this by incorporating interactive digital cards that replace traditional physical cards, making the learning experience more engaging and accessible. The app features voice assistance, which provides audio prompts to help children communicate more effectively. By combining these interactive elements, تواحُد aims to create a supportive environment that encourages children to express themselves and interact with others, ultimately enhancing their social skills and communication abilities.
 
 ## Features
 
