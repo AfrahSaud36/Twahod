@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the تواحُد repository! This iOS application was developed as part of my first app challenge at the Apple Developer Academy | TUWAIQ. The app aims to assist children with autism by utilizing interactive cards and voice assistance to enhance their communication skills and foster social development.
+The تواحُد app is designed specifically to assist children with autism by improving their communication skills and fostering social development. It does this by incorporating interactive digital cards that replace traditional physical cards, making the learning experience more engaging and accessible.
 
 ## Features
 
