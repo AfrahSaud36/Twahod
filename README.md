@@ -144,3 +144,29 @@ struct AvatarView: View {
 I would like to express my gratitude to the Apple Developer Academy for their support and resources throughout this project. Your guidance has been invaluable in bringing تواحُد to life. Additionally, special thanks to the autism community and caregivers for their insights and feedback, which have greatly influenced the development of this application.
 
 
+## Functionality Overview 
+
+ - **Avatar Selection:** 
+- Users can select a personalized avatar from a variety of options. The AvatarView displays interactive cards representing different avatars, allowing children to choose one that resonates with them.
+  - The selected avatar is used throughout the app for a personalized experience.
+-**User-Friendly Interface:**
+- The app employs a simple and intuitive interface with clear navigation. The NavigationView ensures that users can easily move between different sections of the app.
+-**Dynamic Main View:**
+- The MainView showcases a welcoming interface with a greeting and the selected avatar displayed prominently. It provides options for various communication topics, such as feelings, needs, and family, through visually appealing cards.
+-**Search Functionality:**
+- Users can search for specific topics using a text field, making it easy to find relevant content quickly.
+-**Interactive Navigation:**
+- The app features navigation links that guide users to different views, such as FeelingsView, HurtView, and others. Each option is represented visually, encouraging interaction and exploration.
+Visual and Auditory Support:
+- The app can be enhanced with voice assistance for each card or option, providing auditory feedback that helps reinforce learning and communication skills.
+-**Engagement through Tap Gestures:**
+
+- Users can engage with the avatar cards using tap gestures, allowing them to select their favorite avatars interactively.
+-**Clear Content Presentation:**
+- Each communication topic (e.g., feelings, needs) is presented in a structured format, making it easy for users to understand and engage with the content.
+-**Customization:**
+- The app allows for customization of the user experience through avatar selection and the ability to navigate to different content areas based on user choice.
+-**Visual Design:**
+- The app employs visually appealing elements, such as rounded rectangles, circles, and color-coded cards, to make the interface engaging and accessible for children.
+
+
