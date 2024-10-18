@@ -1,4 +1,6 @@
-# تواحُد - iOS Application for Autism Support
+# <p align="center"> Face Detection & Recognition System </p>
+<p align="center"> تواحُد </p>
+
 
 ## Overview
 
