@@ -136,3 +136,9 @@ struct AvatarView: View {
 ```
 
 
+
+## Acknowledgements
+
+I would like to express my gratitude to the Apple Developer Academy for their support and resources throughout this project. Your guidance has been invaluable in bringing تواحُد to life. Additionally, special thanks to the autism community and caregivers for their insights and feedback, which have greatly influenced the development of this application.
+
+
