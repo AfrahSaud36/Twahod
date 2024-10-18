@@ -1,4 +1,7 @@
-<p align="center" style="font-size: 80px;">تواحُد</p>
+
+<h1 align="center">تواحُد</h1>
+
+This app is designed to assist children with autism...
 
 
 ## Overview
