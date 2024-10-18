@@ -1,4 +1,4 @@
-<p align="center"> تواحُد </p>
+<p align="center" style="font-size: 24px;">تواحُد</p>
 
 
 ## Overview
