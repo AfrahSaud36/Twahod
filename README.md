@@ -20,10 +20,6 @@ The تواحُد app is designed specifically to assist children with autism by 
   - Designed with children and caregivers in mind, ensuring that navigation is simple and intuitive.
   - Colorful and engaging visuals to maintain the attention of young users.
 
-- **Customizable Content:** 
-  - Caregivers can tailor the card content to meet the unique needs of each child, making it more relevant and effective.
-  - Option to add personal images and audio to cards for a more personalized experience.
-
 ## Purpose
 
 The primary goal of تواحُد is to create an inclusive environment for children with autism, facilitating better communication and social interaction through an engaging digital platform. By leveraging technology, we aim to make learning and communication more enjoyable and accessible.
@@ -139,10 +135,6 @@ struct AvatarView: View {
 
 
 
-## Acknowledgements
-
-I would like to express my gratitude to the Apple Developer Academy for their support and resources throughout this project. Your guidance has been invaluable in bringing تواحُد to life. Additionally, special thanks to the autism community and caregivers for their insights and feedback, which have greatly influenced the development of this application.
-
 
 ## Functionality Overview 
 
@@ -180,3 +172,6 @@ Visual and Auditory Support:
 - The app employs visually appealing elements, such as rounded rectangles, circles, and color-coded cards, to make the interface engaging and accessible for children.
 
 
+## Acknowledgements
+
+I would like to express my gratitude to the Apple Developer Academy for their support and resources throughout this project. Your guidance has been invaluable in bringing تواحُد to life. Additionally, special thanks to the autism community and caregivers for their insights and feedback, which have greatly influenced the development of this application.
