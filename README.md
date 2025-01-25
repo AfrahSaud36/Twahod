@@ -175,3 +175,17 @@ Visual and Auditory Support:
 ## Acknowledgements
 
 I would like to express my gratitude to the Apple Developer Academy for their support and resources throughout this project. Your guidance has been invaluable in bringing تواحُد to life. Additionally, special thanks to the autism community and caregivers for their insights and feedback, which have greatly influenced the development of this application.
+
+
+
+## Interfaces
+
+<img width="310" alt="Screenshot 2025-01-25 at 4 35 27 PM" src="https://github.com/user-attachments/assets/1954c488-fd40-4b89-9c7d-f8b017b067e7" />
+
+<img width="310" alt="Screenshot 2025-01-25 at 4 36 28 PM" src="https://github.com/user-attachments/assets/b8a0aa58-6d0d-4716-ba58-c87e76ce9b2b" />
+
+<img width="310" alt="Screenshot 2025-01-25 at 4 43 06 PM" src="https://github.com/user-attachments/assets/682187de-c9c0-4991-8697-030ece045d4c" />
+
+
+
+
